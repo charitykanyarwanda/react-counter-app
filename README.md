@@ -69,4 +69,4 @@ Convert project to TypeScript
 
 👩‍💻 Author
 
-Charity Holy
+Charity Uwera
